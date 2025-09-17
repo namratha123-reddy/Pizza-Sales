@@ -2,9 +2,9 @@ Pizza Sales Analysis Dashboard
 
 📌 Project Overview
 
-This project focuses on analyzing Pizza sales data and developing interactive dashboards using Tableau and Power BI. The dashboards provide a complete overview of sales performance, customer preferences, and product-level insights.
+- This project focuses on analyzing Pizza sales data and developing interactive dashboards using Tableau and Power BI. The dashboards provide a    complete overview of sales performance, customer preferences, and product-level insights.
 
-The aim is to help businesses track KPIs, identify top-selling items, and understand customer behavior through data visualization and storytelling.
+- The aim is to help businesses track KPIs, identify top-selling items, and understand customer behavior through data visualization and            storytelling.
 
 🛠️ Tools Used
 
@@ -30,13 +30,10 @@ The aim is to help businesses track KPIs, identify top-selling items, and unders
 
 ✅ Conclusion
 
-The Pizza Sales Dashboard successfully transforms raw transaction data into actionable insights.
-Key business benefits include:
-
-Improved decision-making for promotions and menu optimization
-
-Better demand forecasting based on time and customer trends
-
-Enhanced visualization of KPIs to monitor overall business growth
+- The Pizza Sales Dashboard successfully transforms raw transaction data into actionable insights.
+- Key business benefits include:
+- Improved decision-making for promotions and menu optimization
+- Better demand forecasting based on time and customer trends
+- Enhanced visualization of KPIs to monitor overall business growth
 
 This project demonstrates how data visualization tools like Power BI and Tableau can simplify complex data into clear, business-oriented dashboards.
